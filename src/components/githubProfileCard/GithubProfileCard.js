@@ -25,11 +25,14 @@ export default function GithubProfileCard({prof}) {
               <div className="location-div">
                 <span className="desc-prof">
                   <svg
-                    viewBox="0 0 12 16"
+                    viewBox="-0.5 -2 25 18"
                     version="1.1"
-                    width="20"
-                    height="18"
+                    width="22"
+                    height="16"
                     aria-hidden="true"
+                    stroke="currentColor"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
                   >
                     <path
                       fillRule="evenodd"
