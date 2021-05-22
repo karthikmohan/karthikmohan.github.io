@@ -158,6 +158,16 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
+      role: "Android Engineer",  
+      company: "Esper",
+      companylogo: require("./assets/images/esperLogo.gif").default,
+      date: "December 2020 – Present",
+      desc: "Goal is to establish a strong personal touch when engaging with both technical audiences and business decision-makers, while still working closely with the sales team to coordinate the effort.",
+      descBullets: [
+        "Coding, building, and supporting proof-of-concept AOSP implementations for prospects was a key part of the role."
+      ]
+    },
+    {
       role: "Information Security Research, Intern",  
       company: "IIT Bombay",
       companylogo: require("./assets/images/iitLogo.png").default,
@@ -172,7 +182,10 @@ const workExperiences = {
       company: "ADmyBRAND",
       companylogo: require("./assets/images/admybrandLogo.png").default,
       date: "March 2016 – May 2018",
-      desc: "Worked as an App Developer, gained much experience from the start-up work culture. Specialising in Android App development and its UI/UX designing. Worked in several projects and with several teams."
+      desc: "Worked as an App Developer, gained much experience from the start-up work culture. Specialising in Android App development and its UI/UX designing.",
+      descBullets: [
+        "Coordinated among several teams in building a plethora of apps."
+      ]
     },
     {
       role: "Research And Development Engineer, Intern",  
@@ -186,7 +199,7 @@ const workExperiences = {
       company: "NRSC, ISRO",
       companylogo: require("./assets/images/isroLogo.jpg").default,
       date: "Dec 2016 – Feb 2017",
-      desc: "Data Analysis and Software Development was my work at ISRO. Building a software to compile, analyse and convert data into various suitable formats for each software. Worked with PostgreSQL and R extensively."
+      desc: "At ISRO, I worked on data analysis and software development. Creating software to compile, analyse, and translate data into different formats that each software can understand. I spent a lot of time working with PostgreSQL and R. This was an internal project which was aimed at providing a unified platform for all the departments involved."
     }
   ]
 };
