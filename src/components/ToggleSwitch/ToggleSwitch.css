@@ -36,6 +36,10 @@ input {
 
 input:checked + .slider {
   background-color: #2196f3;
+  background-image: url(https://i.postimg.cc/Hn0nstVK/Screenshot-2020-04-16-at-1-07-19-PM.png);
+  background-size: cover;
+  border-radius: 50px;
+  outline: none;
 }
 
 input:focus + .slider {
@@ -43,6 +47,7 @@ input:focus + .slider {
 }
 
 input:checked + .slider::before {
+  background-color: #ECF0F3;
   -webkit-transform: translateX(26px);
   -ms-transform: translateX(26px);
   transform: translateX(26px);
@@ -51,10 +56,15 @@ input:checked + .slider::before {
 /* Rounded sliders */
 .slider.round {
   border-radius: 34px;
+  background-image: url(https://i.postimg.cc/857jHw2q/Screenshot-2020-04-16-at-1-07-06-PM.png);
+  background-size: cover;
+  border-radius: 50px;
+  outline: none;
 }
 
 .slider.round::before {
   border-radius: 50%;
+  background-color: #F7CA33;
 }
 
 .slider::after {
