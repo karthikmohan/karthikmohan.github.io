@@ -161,7 +161,7 @@ const workExperiences = {
     {
       role: "Information Security Research, Intern",  
       company: "IIT Bombay",
-      companylogo: require("./assets/images/iitLogo.png").default,
+      companylogo: require("./assets/images/iitbLogo.png").default,
       date: "July 2019 – May 2020",
       desc: "My M. Tech. Dissertation included this project. Understanding Blockchain, Ethereum, and Smart Contracts, as well as how to apply them to medical databases. With a special emphasis on the privacy aspects of the notions outlined above.",
       descBullets: [
@@ -171,7 +171,7 @@ const workExperiences = {
     {
       role: "Mobile Application Developer",   
       company: "ADmyBRAND",
-      companylogo: require("./assets/images/admybrandLogo.png").default,
+      companylogo: require("./assets/images/adLogo.png").default,
       date: "March 2016 – May 2018",
       desc: "Working as an App Developer gave me a lot of experience with the start-up culture. Android app development and UI/UX design are my specialties.",
       descBullets: [
@@ -188,7 +188,7 @@ const workExperiences = {
 {
       role: "Software Engineer, Intern",  
       company: "NRSC, ISRO",
-      companylogo: require("./assets/images/isroLogo.jpg").default,
+      companylogo: require("./assets/images/isLogo.png").default,
       date: "Dec 2016 – Feb 2017",
       desc: "At ISRO, I worked on data analysis and software development. Creating software to compile, analyse, and translate data into different formats that each software can understand. I spent a lot of time working with PostgreSQL and R. This was an internal project which was aimed at providing a unified platform for all the departments involved."
     }
