@@ -170,21 +170,21 @@ const workExperiences = {
     {
       role: "Information Security Research, Intern",  
       company: "IIT Bombay",
-      companylogo: require("./assets/images/iitLogo.png").default,
+      companylogo: require("./assets/images/iitbLogo.png").default,
       date: "July 2019 – May 2020",
-      desc: "This project was a part of my M. Tech. Dissertation. Understanding the concepts of Blockchain, Ethereum and Smart Contracts and implementing them on medical databases. Especially focusing on the privacy features of the above mentioned concepts.",
+      desc: "My M. Tech. Dissertation included this project. Understanding Blockchain, Ethereum, and Smart Contracts, as well as how to apply them to medical databases. With a special emphasis on the privacy aspects of the notions outlined above.",
       descBullets: [
-        "Additional Exposure to Data Analysis and Categorisation using R"
+        "Additional Exposure to Data Analysis and Categorisation using R."
       ]
     },
     {
       role: "Mobile Application Developer",   
       company: "ADmyBRAND",
-      companylogo: require("./assets/images/admybrandLogo.png").default,
+      companylogo: require("./assets/images/adLogo.png").default,
       date: "March 2016 – May 2018",
-      desc: "Worked as an App Developer, gained much experience from the start-up work culture. Specialising in Android App development and its UI/UX designing.",
+      desc: "Working as an App Developer gave me a lot of experience with the start-up culture. Android app development and UI/UX design are my specialties.",
       descBullets: [
-        "Coordinated among several teams in building a plethora of apps."
+        "Coordinated multiple teams in the development of a variety of apps."
       ]
     },
     {
@@ -192,12 +192,12 @@ const workExperiences = {
       company: "AIST, Japan",
       companylogo: require("./assets/images/aistLogo.png").default,
       date: "June 2017 – Aug 2017",
-      desc: "Dealing in Research, Informatics and Development (Both in Computer Science and Medical Science Fields). Use of automation technology, deep understanding from research specialists and co-working environments all were part of this internship."
+      desc: "Working in the fields of research, informatics, and development (Both in Computer Science and Medical Science Fields). This internship included the use of automated technology, in-depth information from research professionals, and co-working spaces."
     },
 {
       role: "Software Engineer, Intern",  
       company: "NRSC, ISRO",
-      companylogo: require("./assets/images/isroLogo.jpg").default,
+      companylogo: require("./assets/images/isLogo.png").default,
       date: "Dec 2016 – Feb 2017",
       desc: "At ISRO, I worked on data analysis and software development. Creating software to compile, analyse, and translate data into different formats that each software can understand. I spent a lot of time working with PostgreSQL and R. This was an internal project which was aimed at providing a unified platform for all the departments involved."
     }

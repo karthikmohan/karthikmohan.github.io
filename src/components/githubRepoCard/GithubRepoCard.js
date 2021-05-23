@@ -24,6 +24,8 @@ export default function GithubRepoCard({repo, isDark}) {
               role="img"
               viewBox="0 0 12 16"
               width="14"
+              stroke="currentColor"
+              stroke-width="0.5"
             >
               <path
                 fill-rule="evenodd"
