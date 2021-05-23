@@ -56,6 +56,10 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-java"
     },
     {
+      skillName: "kotlin",
+      fontAwesomeClassname: "fab fa-kickstarter"
+    },
+    {
       skillName: "etheruem",
       fontAwesomeClassname: "fab fa-ethereum"
     },
