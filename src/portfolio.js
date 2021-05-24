@@ -138,7 +138,7 @@ const techStack = {
   experience: [
     {
       Stack: "Mobile Application Development / UI-UX Design",  //Insert stack or technology you have experience in
-      progressPercentage: "92%"  //Insert relative proficiency in percentage
+      progressPercentage: "91%"  //Insert relative proficiency in percentage
     },
     {
       Stack: "Information Security Research",
@@ -146,7 +146,7 @@ const techStack = {
     },
     {
       Stack: "Software Development",
-      progressPercentage: "65%"
+      progressPercentage: "68%"
     },
     {
       Stack: "Data Analysis",
