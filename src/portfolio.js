@@ -161,7 +161,16 @@ const techStack = {
 const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
-    
+    {
+      role: "Android Engineer",  
+      company: "Esper",
+      companylogo: require("./assets/images/esperLogo.gif").default,
+      date: "December 2020 – Present",
+      desc: "Goal is to establish a strong personal touch when engaging with both technical audiences and business decision-makers, while still working closely with the sales team to coordinate the effort.",
+      descBullets: [
+        "Coding, building, and supporting proof-of-concept AOSP implementations for prospects was a key part of the role."
+      ]
+    },
     {
       role: "Information Security Research, Intern",  
       company: "IIT Bombay",
