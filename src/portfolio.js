@@ -269,7 +269,7 @@ const achievementSection = {
     },
 
     {
-      title: "Banyan Tree Schools",
+      title: "Banyan Tree School",
       subtitle: "High School (Science, Mathematics and Computer Science)",
       image: require("./assets/images/btsLogo.png").default,
       footerLink: [
