@@ -257,7 +257,8 @@ const achievementSection = {
 	{ name: "Graduation (July, 2020)"},
         { name: "University Rank Holder"},
         { name: "Merit Scholarship" },
-	{ name: "Research Paper Publication" }
+	{ name: "Research Paper Publication" },
+  { name: "InfoSec Patent Publication" }
       ]
     },
     {
