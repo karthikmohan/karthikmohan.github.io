@@ -98,6 +98,10 @@ https://fontawesome.com/icons?d=gallery */
     {
       skillName: "node",
       fontAwesomeClassname: "fab fa-node"
+    },
+    {
+      skillName: "figma",
+      fontAwesomeClassname: "fab fa-figma"
     }
   ],
   display: true // Set false to hide this section, defaults to true
