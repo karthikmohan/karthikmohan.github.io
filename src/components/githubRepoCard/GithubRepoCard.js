@@ -46,6 +46,7 @@ export default function GithubRepoCard({repo, isDark}) {
                   <p>{repo.node.primaryLanguage.name}</p>
                 </span>
               )}
+              {repo.node.forkCount !== 0 && (
               <span>
                 <svg
                   aria-hidden="true"
@@ -63,6 +64,8 @@ export default function GithubRepoCard({repo, isDark}) {
                 </svg>
                 <p>{repo.node.forkCount}</p>
               </span>
+              )}
+              {repo.node.stargazers.totalCount !== 0 && (
               <span>
                 <svg
                   aria-hidden="true"
@@ -80,6 +83,7 @@ export default function GithubRepoCard({repo, isDark}) {
                 </svg>
                 <p>{repo.node.stargazers.totalCount}</p>
               </span>
+              )}
             </div>
             <div className="repo-right-stat">
               <p>{(repo.node.diskUsage/1024).toFixed(2)} MB</p>
