@@ -8,7 +8,10 @@ export default function ExperienceCard({cardInfo, isDark}) {
 
   function getColorArrays() {
     const colorThief = new ColorThief();
-    setColorArrays(colorThief.getColor(imgRef.current));
+    if(cardInfo.company==="NRSC, ISRO")
+      setColorArrays(colorThief.getPalette(imgRef.current)[1]);
+    else
+      setColorArrays(colorThief.getColor(imgRef.current));
   }
 
   function rgb(values) {
