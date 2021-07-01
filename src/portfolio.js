@@ -170,9 +170,9 @@ const workExperiences = {
       company: "Esper",
       companylogo: require("./assets/images/esperLogo.gif").default,
       date: "December 2020 – Present",
-      desc: "Goal is to establish a strong personal touch when engaging with both technical audiences and business decision-makers, while still working closely with the sales team to coordinate the effort.",
+      desc: "As an Android Engineer, my role includes coding, building, and supporting proof-of-concept AOSP implementations for Esper, along with contributing to Esper’s flagship Android build - Esper Enhanced Android.",
       descBullets: [
-        "Coding, building, and supporting proof-of-concept AOSP implementations for prospects was a key part of the role."
+        "Closely work with Android Engineering team on debugging issues, understand the new features or release pipeline, work on individual tasks provided by engineering tech leads."
       ]
     },
     {
@@ -180,7 +180,7 @@ const workExperiences = {
       company: "IIT Bombay",
       companylogo: require("./assets/images/iitbLogo.png").default,
       date: "July 2019 – May 2020",
-      desc: "My M. Tech. Dissertation included this project. Understanding Blockchain, Ethereum, and Smart Contracts, as well as how to apply them to medical databases. With a special emphasis on the privacy aspects of the notions outlined above.",
+      desc: "This project was a part of my M. Tech. Dissertation. Understanding Blockchain, Ethereum, and Smart Contracts, as well as how to apply them to medical databases. With a special emphasis on the privacy aspects of the notions outlined above.",
       descBullets: [
         "Additional Exposure to Data Analysis and Categorisation using R."
       ]
@@ -190,9 +190,9 @@ const workExperiences = {
       company: "ADmyBRAND",
       companylogo: require("./assets/images/adLogo.png").default,
       date: "March 2016 – May 2018",
-      desc: "Working as an App Developer gave me a lot of experience with the start-up culture. Android app development and UI/UX design are my specialties.",
+      desc: "This role was about translating designs and wireframes into high-quality code. Designing, building, and maintaining high-performance, reusable, and reliable Java/Kotlin code. Ensuring the best possible performance, quality, and responsiveness of the application.",
       descBullets: [
-        "Coordinated multiple teams in the development of a variety of apps."
+        "Identifying and correcting bottlenecks and fixing bugs. Help in maintaining code quality, organization, and automatization."
       ]
     },
     {
@@ -200,14 +200,17 @@ const workExperiences = {
       company: "AIST, Japan",
       companylogo: require("./assets/images/aistLogo.png").default,
       date: "June 2017 – Aug 2017",
-      desc: "Working in the fields of research, informatics, and development (Both in Computer Science and Medical Science Fields). This internship included the use of automated technology, in-depth information from research professionals, and co-working spaces."
+      desc: "Dealing in Research, Informatics, and Development (Both in Computer Science and Medical Science Fields). The use of automation technology, deep understanding from research specialists, and co-working environments all were part of this internship."
     },
 {
       role: "Software Engineer, Intern",  
       company: "NRSC, ISRO",
       companylogo: require("./assets/images/isLogo.png").default,
       date: "Dec 2016 – Feb 2017",
-      desc: "At ISRO, I worked on data analysis and software development. Creating software to compile, analyse, and translate data into different formats that each software can understand. I spent a lot of time working with PostgreSQL and R. This was an internal project which was aimed at providing a unified platform for all the departments involved."
+      desc: "At ISRO, I worked on data analysis and software development. Creating software to compile, analyze, and translate data into different formats that each software can understand. I spent a lot of time working with tools like PostgreSQL and R.",
+      descBullets: [
+        "This was an internal project which was aimed at providing a unified platform for all the departments involved."
+      ]
     }
   ]
 };
