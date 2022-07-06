@@ -278,7 +278,7 @@ const achievementSection = {
       ]
     },
     {
-      title: "SRM University, Delhi NCR",
+      title: "SRM University",
       subtitle: "Bachelors in Computer Science and Engineering",
       image: require("./assets/images/srmLogo.png").default,
       footerLink: [	{ name: "Graduation (June, 2018)"},{ name: "Chancellor Scholarship"},
