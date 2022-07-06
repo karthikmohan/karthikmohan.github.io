@@ -146,7 +146,7 @@ const techStack = {
     },
     {
       Stack: "Information Security Research",
-      progressPercentage: "75%"
+      progressPercentage: "76%"
     },
     {
       Stack: "Software Development",
@@ -317,9 +317,9 @@ const blogSection = {
       description: "The dream of a better internet for book lovers is emerging on platforms like Glitch"
     },
     {
-      url: "https://medium.com/datadriveninvestor/why-tesla-is-going-to-be-my-next-15-year-investment-3f3d84381ca9",
-      title: "Why Tesla is Going to be My Next 15-Year Investment",
-      description: "And how Elon Musk keeps all competition 10 years behind."
+      url: "https://blog.esper.io/",
+      title: "Esper Blog",
+      description: "From the Android experts at Esper, gain Android development insights, Android platform analysis, and other Android engineering resources."
     },
     {
       url: "https://medium.com/predict/the-future-is-more-terrifying-than-we-can-imagine-ceb6403765b1",
