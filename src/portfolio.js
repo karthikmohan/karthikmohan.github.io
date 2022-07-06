@@ -166,11 +166,11 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
-      role: "Android Engineer",  
+      role: "Sr. Software Development Engineer",  
       company: "Esper",
       companylogo: require("./assets/images/esperLogo.gif").default,
       date: "December 2020 – Present",
-      desc: "As an Android Engineer, my role includes coding, building, and supporting proof-of-concept AOSP implementations for Esper, along with contributing to Esper’s flagship Android build - Esper Enhanced Android.",
+      desc: "As an Sr. Software Development Engineer - Android, my role includes coding, building, and supporting proof-of-concept AOSP implementations for Esper, along with contributing to Esper’s flagship Android build - Esper Enhanced Android.",
       descBullets: [
         "Closely work with Android Engineering team on debugging issues, understand the new features or release pipeline, work on individual tasks provided by engineering tech leads."
       ]
