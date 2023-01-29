@@ -68,7 +68,7 @@ https://iconify.design/icon-sets/ */
       iconfiyClassname: "mdi:docker"
     },
     {
-      skillName: "sql-database",
+      skillName: "database",
       iconfiyClassname: "mdi:sql-query"
     },
     {
