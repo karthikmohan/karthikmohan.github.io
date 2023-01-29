@@ -44,64 +44,60 @@ const skillsSection = {
   ],
 
   /* Make Sure to include correct Font Awesome Classname to view your icon
-https://fontawesome.com/icons?d=gallery */
+https://iconify.design/icon-sets/ */
 
     softwareSkills: [
     {
       skillName: "android",
-      fontAwesomeClassname: "fab fa-android"
+      iconfiyClassname: "material-symbols:android"
     },
     {
       skillName: "java",
-      fontAwesomeClassname: "fab fa-java"
+      iconfiyClassname: "mdi:language-java"
     },
     {
       skillName: "kotlin",
-      fontAwesomeClassname: "fab fa-kickstarter"
+      iconfiyClassname: "mdi:language-kotlin"
     },
     {
       skillName: "etheruem",
-      fontAwesomeClassname: "fab fa-ethereum"
+      iconfiyClassname: "mdi:ethereum"
     },
     {
       skillName: "docker",
-      fontAwesomeClassname: "fab fa-docker"
+      iconfiyClassname: "mdi:docker"
     },
     {
       skillName: "sql-database",
-      fontAwesomeClassname: "fas fa-database"
+      iconfiyClassname: "mdi:sql-query"
     },
     {
       skillName: "aws",
-      fontAwesomeClassname: "fab fa-aws"
+      iconfiyClassname: "mdi:aws"
     },
     {
       skillName: "firebase",
-      fontAwesomeClassname: "fas fa-fire"
+      iconfiyClassname: "mdi:firebase"
     },
     {
       skillName: "php",
-      fontAwesomeClassname: "fab fa-php"
+      iconfiyClassname: "mdi:language-php"
     },
     {
       skillName: "python",
-      fontAwesomeClassname: "fab fa-python"
+      iconfiyClassname: "mdi:language-python"
     },
     {
       skillName: "react",
-      fontAwesomeClassname: "fab fa-react"
-    },
-    {
-      skillName: "javascript",
-      fontAwesomeClassname: "fab fa-js"
+      iconfiyClassname: "mdi:react"
     },
     {
       skillName: "node",
-      fontAwesomeClassname: "fab fa-node"
+      iconfiyClassname: "fa-brands:node"
     },
     {
       skillName: "figma",
-      fontAwesomeClassname: "fab fa-figma"
+      iconfiyClassname: "ph:figma-logo"
     }
   ],
   display: true // Set false to hide this section, defaults to true
