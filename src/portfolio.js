@@ -40,7 +40,7 @@ const skillsSection = {
     emoji("⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications."),
     emoji("⚡ Heavy focus on Mobile Application Development, Custom ROM development and Information Security Research."),
     emoji("⚡ Integration of upcoming tech. such as hyper-ledger and blockchain services."),
-    emoji("⚡ Fluency in Cloud Computing Services such as Firebase/ AWS / Digital Ocean.")
+    emoji("⚡ Fluency in Cloud Computing Services such as Firebase / AWS / Digital Ocean.")
   ],
 
   /* Make Sure to include correct Font Awesome Classname to view your icon
