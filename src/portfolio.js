@@ -23,8 +23,8 @@ const greeting = {
 
 const socialMediaLinks = {
   github: "https://github.com/karthikmohan",
-  linkedin: "https://www.linkedin.com/in/karthik-mohan-/",
-  gmail: "bablu1995@gmail.com",
+  linkedin: "https://www.linkedin.com/in/karthikmohan-/",
+  gmail: "mohannkarthik@gmail.com",
   steam:"https://steamcommunity.com/id/ozias/",
   reddit:"https://www.reddit.com/user/MasterPrestigeNuts/",
   twitter:"https://twitter.com/karthikmo_han",
@@ -142,15 +142,15 @@ const techStack = {
     },
     {
       Stack: "Information Security Research",
-      progressPercentage: "76%"
+      progressPercentage: "79%"
     },
     {
-      Stack: "Software Development",
-      progressPercentage: "68%"
+      Stack: "Software Developmentment",
+      progressPercentage: "75%"
     },
     {
       Stack: "Data Analysis",
-      progressPercentage: "60%"
+      progressPercentage: "64%"
     }
   ],
   displayCodersrank: false // Set true to display codersrank badges section need to changes your username in src/containers/skillProgress/skillProgress.js:17:62, defaults to false
@@ -162,7 +162,7 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
-      role: "Sr. Software Development Engineer",  
+      role: "Sr. Software Development Engineer II - Android",  
       company: "Esper",
       companylogo: require("./assets/images/esperLogo.gif").default,
       date: "December 2020 – Present",
@@ -182,7 +182,7 @@ const workExperiences = {
       ]
     },
     {
-      role: "Mobile Application Developer",   
+      role: "Android Developer",   
       company: "ADmyBRAND",
       companylogo: require("./assets/images/adLogo.png").default,
       date: "March 2016 – May 2018",
@@ -362,8 +362,8 @@ const contactInfo = {
   title: emoji("Contact Me ☎️"),
   subtitle:
     "Discuss a project or just want to say hi? My Inbox is open for all.",
-  number: "+91-9945730914",
-  email_address: "bablu1995@gmail.com"
+  number: "+91-99457309**",
+  email_address: "mohannkarthik@gmail.com"
 };
 
 // Twitter Section
