@@ -12,7 +12,7 @@ const greeting = {
   username: "Karthik Mohan",
   title: "Hi all, I'm Karthik",
   subTitle: emoji(
-    "A computer science engineer with experience as a mobile/software application developer and information security researcher in various companies and institutes 👨🏾‍💻. Interested in building utility resources to make life simpler. I'm fascinated by modern and evolving technology."
+    "As a Senior Software Development Engineer II at Esper, I design, build, and maintain high-performance, reusable, and reliable Java/Kotlin code for Android applications. I also lead key initiatives from initial discussions with the product team to delivery, and mentor other team members on code standards and design approaches. \nI have a Master of Technology degree in Computer Science and Engineering with a specialization in Information Security from Vellore Institute of Technology, where I conducted research on blockchain, Ethereum, and smart contracts for medical databases. I have also worked as a mobile application developer and an information security researcher in various companies and institutes, gaining exposure to data analysis and categorization using R.  \nI am interested in building utility resources to make life simpler, and I am fascinated by modern and evolving technology. I have a strong passion for software development, mobile applications, and information security, and I strive to deliver quality, performance, and responsiveness in my work. I enjoy collaborating with other engineers and learning new skills and tools."
   ),
   resumeLink:
     "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing",
