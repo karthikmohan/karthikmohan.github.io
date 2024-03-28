@@ -24,15 +24,13 @@ jobs:
         uses: actions/setup-node@v2
         with:
           node-version: 14.x
-          npm-version: '>=8'
 
-      - name: Update npm 🚀
-        run: npm install -g npm@latest
-        
       - name: Install and Build 🔧
         run: |
+          npm install -g npm@latest
           npm install
           npm run build
+
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@v4
         with:
