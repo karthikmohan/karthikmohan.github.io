@@ -23,14 +23,14 @@ jobs:
       - name: Setup Node.js 🔧
         uses: actions/setup-node@v1
         with:
-          node-version: 20.x
+          node-version: 16.x
 
       - name: Update npm 🚀
         run: npm install -g npm@latest
         
       - name: Install and Build 🔧
         run: |
-          npm install npx
+          npm install
           npm run build
           
       - name: Deploy 🚀
