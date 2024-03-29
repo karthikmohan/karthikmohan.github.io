@@ -166,9 +166,9 @@ const workExperiences = {
       company: "Esper.io",
       companylogo: require("./assets/images/esperLogo.gif").default,
       date: "December 2020 – Present",
-      desc: "As an Sr. Software Development Engineer - Android, my role includes coding, building, and supporting proof-of-concept AOSP implementations for Esper, along with contributing to Esper’s flagship Android build - Esper Enhanced Android.",
+      desc: "As a Sr SDE III at Esper, I design, build, and maintain high-performance, reusable, and reliable Java/Kotlin code for Android applications. I also lead key initiatives from initial discussions with the product team to delivery, and mentor other team members on code standards and design approaches.",
       descBullets: [
-        "Closely work with Android Engineering team on debugging issues, understand the new features or release pipeline, work on individual tasks provided by engineering tech leads."
+	"Leading cross-functional teams in the creation of innovative mobile solutions. Bringing years of expertise to drive excellence in coding, architecture, and performance optimization."
       ]
     },
     {
