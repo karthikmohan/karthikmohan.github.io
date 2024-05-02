@@ -172,7 +172,7 @@ const workExperiences = {
       ]
     },
     {
-      role: "Information Security Research, Intern",  
+      role: "Information Security Researcher",  
       company: "IIT Bombay",
       companylogo: require("./assets/images/iitbLogo.png").default,
       date: "July 2019 – May 2020",
