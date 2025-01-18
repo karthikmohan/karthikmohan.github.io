@@ -12,7 +12,7 @@ const greeting = {
   username: "Karthik Mohan",
   title: "Hi all, I'm Karthik",
   subTitle: emoji(
-    "A computer science engineer with experience as a mobile/software application developer and information security researcher in various companies and institutes 👨🏾‍💻. Interested in building utility resources to make life simpler. I'm fascinated by modern and evolving technology."
+    "Senior Software Development Engineer III with 9+ Years of Expertise in Building Scalable, High-Impact Solutions and Driving Innovation Across Complex Systems. \nExpertise in designing and delivering high-performance Android applications using Java/Kotlin. Skilled in leading initiatives from concept to delivery, mentoring teams, and upholding coding standards. Holds an M.Tech in Computer Science specializing in Information Security, with research experience in blockchain and smart contracts. Passionate about software development, mobile applications, and modern technology, with a strong focus on quality, performance, and collaboration."
   ),
   resumeLink:
     "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing",
@@ -266,7 +266,7 @@ const achievementSection = {
       subtitle: "Masters in Computer Science and Engineering (Specialisation in Information Security)",
       image: require("./assets/images/vitLogo.png").default,
       footerLink: [
-	{ name: "Graduation (July, 2020)"},
+	{ name: "Graduation (July, 2019)"},
         { name: "University Rank Holder"},
         { name: "Merit Scholarship" },
 	{ name: "Research Paper Publication" },
@@ -277,7 +277,7 @@ const achievementSection = {
       title: "SRM University",
       subtitle: "Bachelors in Computer Science and Engineering",
       image: require("./assets/images/srmLogo.png").default,
-      footerLink: [	{ name: "Graduation (June, 2018)"},{ name: "Chancellor Scholarship"},
+      footerLink: [	{ name: "Graduation (June, 2017)"},{ name: "Chancellor Scholarship"},
 	{ name: "C / C++ Certifications"}, { name: "Java Certifications"}]
     },
 
