@@ -165,7 +165,7 @@ const workExperiences = {
       role: "Sr. Software Development Engineer III - Android",  
       company: "Esper.io",
       companylogo: require("./assets/images/esperLogo.gif").default,
-      date: "December 2020 – Present",
+      date: "Dec 2020 – Present",
       desc: "As a Sr SDE III at Esper, I design, build, and maintain high-performance, reusable, and reliable Java/Kotlin code for Android applications. I also lead key initiatives from initial discussions with the product team to delivery, and mentor other team members on code standards and design approaches.",
       descBullets: [
 	"Leading cross-functional teams in the creation of innovative mobile solutions. Bringing years of expertise to drive excellence in coding, architecture, and performance optimization."
@@ -175,7 +175,7 @@ const workExperiences = {
       role: "Information Security Researcher",  
       company: "IIT Bombay",
       companylogo: require("./assets/images/iitbLogo.png").default,
-      date: "January 2019 – December 2020",
+      date: "Jan 2019 – Dec 2020",
       desc: "This project was a part of my M. Tech. Dissertation. Understanding Blockchain, Ethereum, and Smart Contracts, as well as how to apply them to medical databases. With a special emphasis on the privacy aspects of the notions outlined above.",
       descBullets: [
         "Additional Exposure to Data Analysis and Categorisation using R."
@@ -185,7 +185,7 @@ const workExperiences = {
       role: "Mobile Application Developer",   
       company: "ADmyBRAND",
       companylogo: require("./assets/images/adLogo.png").default,
-      date: "March 2016 – May 2018",
+      date: "Mar 2016 – May 2018",
       desc: "This role was about translating designs and wireframes into high-quality code. Designing, building, and maintaining high-performance, reusable, and reliable Java/Kotlin code. Ensuring the best possible performance, quality, and responsiveness of the application.",
       descBullets: [
         "Identifying and correcting bottlenecks and fixing bugs. Help in maintaining code quality, organization, and automatization."
@@ -212,7 +212,7 @@ const workExperiences = {
       role: "Full Stack Application Developer",  
       company: "ShardaTech",
       companylogo: require("./assets/images/shardatechlogo.png").default,
-      date: "Dec 2016 – Feb 2017",
+      date: "Aug 2015 – May 2016",
       desc: "Designed, developed, and deployed a comprehensive Android application, including UI/UX design and back-end implementation.",
       descBullets: [
 "Collaborated with a cross-functional team of four developers to ensure seamless coordination between mobile app development, web development, and cloud infrastructure teams.",
