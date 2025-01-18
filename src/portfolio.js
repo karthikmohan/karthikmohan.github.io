@@ -37,10 +37,10 @@ const skillsSection = {
   title: "What I Do 💻",
   subTitle: "ENTHUSIASTIC DEVELOPER, WHO WANTS TO EXPLORE UPCOMING TECHNOLOGIES",
   skills: [
-    emoji("⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications."),
-    emoji("⚡ Heavy focus on Mobile Application Development, Custom ROM development and Information Security Research."),
-    emoji("⚡ Integration of upcoming tech. such as hyper-ledger and blockchain services."),
-    emoji("⚡ Fluency in Cloud Computing Services such as Firebase / AWS / Digital Ocean.")
+    emoji("⚡ Expertise in developing highly interactive front-end user interfaces for web and mobile applications."),
+    emoji("⚡ Strong focus on mobile application development, custom ROM creation, and information security research."),
+    emoji("⚡ Skilled in integrating emerging technologies, including hyper-ledger, smart contracts and blockchain services."),
+    emoji("⚡ Proficient in cloud computing services, including Firebase, AWS, GCP and Digital Ocean.")
   ],
 
   /* Make Sure to include correct Font Awesome Classname to view your icon
@@ -146,11 +146,11 @@ const techStack = {
     },
     {
       Stack: "Software Developmentment",
-      progressPercentage: "75%"
+      progressPercentage: "81%"
     },
     {
       Stack: "Data Analysis",
-      progressPercentage: "64%"
+      progressPercentage: "67%"
     }
   ],
   displayCodersrank: false // Set true to display codersrank badges section need to changes your username in src/containers/skillProgress/skillProgress.js:17:62, defaults to false
@@ -175,14 +175,14 @@ const workExperiences = {
       role: "Information Security Researcher",  
       company: "IIT Bombay",
       companylogo: require("./assets/images/iitbLogo.png").default,
-      date: "July 2019 – May 2020",
+      date: "January 2019 – December 2020",
       desc: "This project was a part of my M. Tech. Dissertation. Understanding Blockchain, Ethereum, and Smart Contracts, as well as how to apply them to medical databases. With a special emphasis on the privacy aspects of the notions outlined above.",
       descBullets: [
         "Additional Exposure to Data Analysis and Categorisation using R."
       ]
     },
     {
-      role: "Android Developer",   
+      role: "Mobile Application Developer",   
       company: "ADmyBRAND",
       companylogo: require("./assets/images/adLogo.png").default,
       date: "March 2016 – May 2018",
@@ -192,7 +192,7 @@ const workExperiences = {
       ]
     },
     {
-      role: "Research And Development Engineer, Intern",  
+      role: "Research And Development Engineer",  
       company: "AIST, Japan",
       companylogo: require("./assets/images/aistLogo.png").default,
       date: "June 2017 – Aug 2017",
@@ -206,6 +206,17 @@ const workExperiences = {
       desc: "At ISRO, I worked on data analysis and software development. Creating software to compile, analyze, and translate data into different formats that each software can understand. I spent a lot of time working with tools like PostgreSQL and R.",
       descBullets: [
         "This was an internal project which was aimed at providing a unified platform for all the departments involved."
+      ]
+    },
+	{
+      role: "Full Stack Application Developer",  
+      company: "ShardaTech",
+      companylogo: require("./assets/images/shardatechlogo.png").default,
+      date: "Dec 2016 – Feb 2017",
+      desc: "Designed, developed, and deployed a comprehensive Android application, including UI/UX design and back-end implementation.",
+      descBullets: [
+"Collaborated with a cross-functional team of four developers to ensure seamless coordination between mobile app development, web development, and cloud infrastructure teams.",
+"Delivered a user-centric and feature-rich application, maintaining high-quality coding standards and best practices."
       ]
     }
   ]
